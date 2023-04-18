@@ -1,0 +1,15 @@
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.csproj.AssemblyReference.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.AssemblyInfoInputs.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.AssemblyInfo.cs
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.csproj.CoreCompileInputs.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\bin\Debug\net7.0\Empress.exe
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\bin\Debug\net7.0\Empress.deps.json
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\bin\Debug\net7.0\Empress.runtimeconfig.json
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\bin\Debug\net7.0\Empress.dll
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\bin\Debug\net7.0\Empress.pdb
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.dll
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\refint\Empress.dll
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.pdb
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\Empress.genruntimeconfig.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\Empress\obj\Debug\net7.0\ref\Empress.dll
